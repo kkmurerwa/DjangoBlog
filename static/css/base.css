@@ -16,6 +16,16 @@ header h1 a{
     text-decoration: none;
 }
 
+
+.nav-left {
+    margin-right: auto;
+}
+
+.nav-right {
+    display: flex;
+    padding-top: 2rem;
+}
+
 .post-entry {
     margin: 10px;
     background: silver;
@@ -41,3 +51,4 @@ header h1 a{
 .post-entry h2 a:hover {
     color: red;
 }
+
